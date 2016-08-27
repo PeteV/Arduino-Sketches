@@ -11,12 +11,12 @@
  * @author Pete Verschueren
  * @version 0.1
  * @date 2016-08-15
- * 
+ * todo: add Bluetooth on/off
  */
 
 // Pins Init
 #define LL_IRQ_NUMBER 0 // Interrupt number to use (0 = pin 2 on most boards)
-#define LL_PIN_SERVO 2 // Servo input pin number - this needs to match whatever interrupt is used
+
 #define LL_PIN_LIGHT 3 // Landing light output pin number
 
 // Strobe Init
